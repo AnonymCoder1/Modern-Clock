@@ -1,0 +1,20 @@
+Uri: https://budilnik.netlify.app/
+File Name: C:\Users\ykana\Desktop\GitHub Projets\Modern-Clock\budilnik.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://budilnik.netlify.app/app.js
+File Name: C:\Users\ykana\Desktop\GitHub Projets\Modern-Clock\budilnik.netlify.app\app.js
+Content Type: application/javascript
+
+Uri: https://budilnik.netlify.app/font/DS-DIGIB.TTF
+File Name: C:\Users\ykana\Desktop\GitHub Projets\Modern-Clock\budilnik.netlify.app\font\DS-DIGIB.TTF
+Content Type: font/ttf
+
+Uri: https://budilnik.netlify.app/img/favicon.png
+File Name: C:\Users\ykana\Desktop\GitHub Projets\Modern-Clock\budilnik.netlify.app\img\favicon.png
+Content Type: image/png
+
+Uri: https://budilnik.netlify.app/style.css
+File Name: C:\Users\ykana\Desktop\GitHub Projets\Modern-Clock\budilnik.netlify.app\style.css
+Content Type: text/css
+
